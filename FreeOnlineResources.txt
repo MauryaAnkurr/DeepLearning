@@ -32,3 +32,6 @@ http://deeplearning.net/tutorial/
 ++++++++++++++++++++++
 
 http://deeplearning.net/tutorial/unet.html#unet
+
+#####################################################33
+http://deeplearning.net/2015/12/20/openai-a-new-non-profit-ai-company/
