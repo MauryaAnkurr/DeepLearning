@@ -1,0 +1,123 @@
+1. List some common norms and their application scenarios, such as L0, L1, L2, L∞, Frobenius norm
+
+2. A brief introduction to Bayesian probability and frequency probability, as well as the assumptions of true parameters in statistics.
+
+3. Universal approximator of probability density
+
+4. Briefly introduce sigmoid, relu, softplus, tanh, RBF and their application scenarios
+
+5. Jacobian, Hessian matrix and its importance in deep learning
+
+6. KL divergence measures the intuitive quantity in information theory
+
+7. Computational overflow and underflow problems in numerical calculations, such as the processing method in softmax
+
+8. What is the condition number (pathological condition) associated with the eigenvalues ​​of the matrix, and its relationship with gradient explosion and gradient dispersion
+
+9. In a gradient-based optimization problem, how to determine whether a zero boundary point with a gradient of 0 is a local maximum/global minimum or a saddle point, the relationship between the condition number of the Hessian matrix and the gradient descent method
+
+10. KTT method and constraint optimization problem, definition of active constraint
+
+11. Model capacity, express capacity, effective capacity, optimal capacity concept
+
+12. The weight decay in regularization and the equivalence of adding prior knowledge under certain conditions
+
+13. Reasons for the wide application of Gaussian distribution
+
+14. The relationship between minimizing KL divergence and minimizing the cross entropy of the distribution in maximum likelihood estimation
+
+15. In linear regression problems, the relationship between MAP Bayesian inference with Gaussian prior weights and weight attenuation, and the relationship with regularization
+
+16. Sparse representation, low-dimensional representation, independent representation
+
+17. List some cost functions that cannot be minimized based on map-based optimization and their characteristics
+
+18. In the deep neural network, the hidden layer is introduced and the convexity of the training problem is abandoned. What is the significance?
+
+19. The effect of the saturation and smoothness of a function in a certain interval on gradient-based learning
+
+20. Some solutions to gradient explosion
+
+21. The universal approximate nature of MLP
+
+22. In the feedforward network, the relationship between depth and width and the difference in expressing ability
+
+23. Why cross entropy loss can improve the performance of models with sigmoid and softmax output, while there are many problems with using mean square error loss. The pros and cons of piecewise linear hidden layer instead of sigmoid
+
+24. Express the original intention of the development of learning? And introduce its typical example: self-encoder
+
+25. In the process of regularization, why do we only impose regular penalties on weights instead of biases?
+
+26. In deep learning neural networks, consider the pros and cons of using the same weight attenuation in all layers
+
+27. In the regularization process, the relationship between the weight attenuation and the eigenvalues ​​in the Hessian matrix, as well as the relationship with gradient dispersion and gradient explosion
+
+28. The relationship between L1/L2 regularization and Gaussian prior/log priori MAP Bayesian inference
+
+29. What is underconstraint and why most regularization can make the underdetermined problem under underconstraint converge in the iterative process
+
+30. Why consider adding noise with a small variance to the input (hidden unit/weight) during model training, and the relationship with regularization
+
+31. The concept of shared parameters and its wide-ranging influence in deep learning
+
+32. The relationship between Dropout and Bagging integration methods, and the significance of Dropout and why it is powerful
+
+33. In the update process of the batch gradient descent method, the relationship between the size of the batch and the stability of various updates
+
+34. How to avoid the morbidity, saddle point, gradient explosion, gradient dispersion in deep learning
+
+35. The selection method of SGD and learning rate, the influence of SGD with momentum on the ill-conditioned condition of Hessian matrix and random gradient variance
+
+36. In the process of initializing weights, the influence of weights in various network structures, and some initialization methods; biased initialization
+
+37. Adaptive learning rate algorithm: AdaGrad, RMSProp, Adam and other algorithms
+
+38. Second-order approximation methods: Newton's method, conjugate gradient, BFGS, etc.
+
+39. The significance of Hessian standardization for high-order optimization algorithms
+
+40. Reasons for translation and other degeneration in convolutional networks, some common forms of convolution
+
+41. The meaning of pooling
+
+42. Some common dependency loop relationships of recurrent neural networks, some common input and output, and corresponding application scenarios
+
+43.seq2seq, gru, lstm and other related principles
+
+44. The significance of sampling in deep learning
+
+45. The relationship between autoencoder and linear factor model, PCA, ICA, etc.
+
+46. ​​The significance of autoencoders in deep learning, and some common deformations and applications
+
+47. Reasons for the widespread use of restricted Boltzmann machines
+
+48. Stable distribution and Markov chain
+
+49. The principle of Gibbs sampling
+
+50. Solutions for partition functions that are usually difficult to calculate
+
+51. The connection and difference of several parameter estimations: MLE/MAP/Bayes
+
+52. The idea of ​​semi-supervised and its application in deep learning
+
+53. For example, the meaning of channels in CNN in different data sources
+
+54. The application of deep learning in NLP, speech, image and other fields and some commonly used models
+
+55. Comparison of word2vec and glove
+
+56. Why is the attention mechanism widely used in some scenes of deep learning, and its several different situations
+
+57. Introduction to wide and deep in the wide&deep model
+
+58. The relationship between nuclear regression and RBF network
+
+Many editors of the questions here have only a partial understanding of the textbooks. I hope that you can criticize and correct them. You can leave a correct and comprehensive answer in the comment area to learn and make progress together.
+
+59. Why is LSTM structure derivation better than RNN?
+
+60. Some common solutions or structural design of overfitting in deep learning
+
+61. How to understand the effective parameter data of the Bayesian model will be automatically adjusted according to the scale of the data set
