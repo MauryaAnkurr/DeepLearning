@@ -1,0 +1,7 @@
+
+https://pytorch.org/tutorials/
+https://www.youtube.com/watch?v=zEtukWs_B2I&list=PLyMom0n-MBroupZiLfVSZqK5asX8KfoHL&index=1
+https://www.youtube.com/watch?v=EMXfZB8FVUA&list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4
+https://www.youtube.com/watch?v=2S1dgHpqCdk&list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz
+https://github.com/yunjey/pytorch-tutorial
+https://d2l.ai/index.html
